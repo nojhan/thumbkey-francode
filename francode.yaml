@@ -1,0 +1,130 @@
+FRMessagEase:
+  main:
+    key0_0:
+      left:
+        text: —
+      topLeft:
+        text: –
+      top:
+        text: ␄
+    key1_0:
+    key1_2:
+      bottom:
+        text:  
+        displayText: ⍽
+    key2_0:
+        bottomLeft:
+          text: ❮❮ 
+        left:
+          text: « 
+        bottomRight:
+          text: ·
+    key2_2:
+        bottomRight:
+          text:  ❯❯
+        right:
+          text:  »
+    key2_1:
+        bottom:
+          swipeReturnText: …
+        topRight:
+          text: ’
+        bottomRight:
+           swipeReturnText: ⋮
+    key0_2:
+        right:
+          text: ؟
+        topRight:
+          text: →
+        top:
+          text: ↴
+          swipeReturnText: ⎘
+        topLeft:
+          text: ©
+  numeric:
+    key0_0:
+        top:
+          text: ¹
+        topRight:
+          text: ☆
+        bottomRight:
+          text: ★
+        left:
+           text: ͠❦ ͠
+        bottom:
+          swipeReturnText: ❶
+    key0_1:
+       top:
+          text: ²
+       bottom:
+          text: ×
+          swipeReturnText: ❷
+    key0_2:
+       top:
+          text: ³
+       right:
+          text: ≈
+       bottom:
+          swipeReturnText: ❸
+    key1_0:
+       top:
+          text: 🎼
+       right:
+          text: 🎵
+       bottom:
+          text: 🎶
+          swipeReturnText: ❹
+    key1_1:
+       right:
+          text: ➡️
+       left:
+          text: ⬅️
+       topLeft:
+          text: ☐
+       bottomLeft:
+          text: ☑
+       top:
+          text: ⎧
+       bottom:
+          swipeReturnText: ❺
+          text: ⎩
+       topRight:
+          text: ⎨
+       bottomRight:
+          text: ⎪
+    key1_2:
+        bottom:
+          text: 🔻
+          swipeReturnText: ❻
+        top:
+          text: ™
+    key2_0:
+       top:
+          text: ╰	
+       topRight:
+          text: ├
+       right:
+          text: ╼
+       bottom:
+          text: │
+          swipeReturnText: ❼
+       left:
+          text: ─	
+    key2_1:
+       right:
+           text: ┈┈┈┈┈✄┈┈┈┈┈
+           displayText: ·✄·
+       bottom:
+           swipeReturnText: ❽
+       top:
+           text: ∞
+    key2_2:
+       right:
+          text: ∎
+       bottom:
+          swipeReturnText: ❾
+    key3_0:
+       bottom:
+         swipeReturnText: ⓿
+       top:
+         text: ∅
