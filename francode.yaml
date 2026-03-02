@@ -9,9 +9,6 @@ FRMessagEase:
         text: ␄
     key1_0:
     key1_2:
-      bottom:
-        text:  
-        displayText: ⍽
     key2_0:
         bottomLeft:
           text: ❮❮ 
@@ -41,6 +38,9 @@ FRMessagEase:
           swipeReturnText: ⎘
         topLeft:
           text: ©
+        bottom:
+          text:  
+          displayText: ⍽
   numeric:
     key0_0:
         top:
@@ -50,7 +50,8 @@ FRMessagEase:
         bottomRight:
           text: ★
         left:
-           text: ͠❦ ͠
+           text: ˙   ˙  ˙ ˙˙  ͠   ͠   ͠   ͠   ͠❦ ͠   ͠   ͠   ͠   ͠ ˙˙˙ ˙  ˙   ˙
+           displayText: ❦
         bottom:
           swipeReturnText: ❶
     key0_1:
